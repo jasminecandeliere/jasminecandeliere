@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasminecandeliere
 - 👀 I’m interested in using health data to build digital health solutions
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on health realted projects
+- 💞️ I’m looking to collaborate on health related projects
 - 📫 How to reach me : jasmine.candeliere@mail.utoronto.ca
 
 <!---
